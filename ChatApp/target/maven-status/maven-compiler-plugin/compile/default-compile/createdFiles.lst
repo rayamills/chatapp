@@ -1,0 +1,8 @@
+com\rayasapp\servlet\LoginServlet.class
+com\mycompany\chatapp\JakartaRestConfiguration.class
+com\rayasapp\servlet\RegistrationServlet.class
+com\mycompany\chatapp\resources\JakartaEE10Resource.class
+com\rayasapp\servlet\ChatServlet.class
+com\rayasapp\servlet\ConversationsServlet.class
+com\rayasapp\servlet\DatabaseConnection.class
+com\rayasapp\servlet\HomeServlet.class
